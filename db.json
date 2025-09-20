@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice Johnsons",
+      "role": "User",
+      "city": "Chicago"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "role": "User",
+      "city": "Los Angeles"
+    },
+    {
+      "id": "3",
+      "name": "Clara Davis",
+      "role": "Moderator",
+      "city": "Chicago"
+    },
+    {
+      "id": "4",
+      "name": "David Wilson",
+      "role": "User",
+      "city": "Houston"
+    },
+    {
+      "id": "5",
+      "name": "Ella Brown",
+      "role": "Admin",
+      "city": "Phoenix"
+    },
+    {
+      "id": "6",
+      "name": "Franklin Lee",
+      "role": "User",
+      "city": "Philadelphia"
+    },
+    {
+      "id": "7",
+      "name": "Grace Kim8rfy7td",
+      "role": "AdminP",
+      "city": "Los Angelos"
+    },
+    {
+      "id": "8",
+      "name": "Henry Martinez",
+      "role": "User",
+      "city": "San Diego"
+    },
+    {
+      "id": "9",
+      "name": "Isabella Moore",
+      "role": "Admin",
+      "city": "Dallas"
+    },
+    {
+      "id": "10",
+      "name": "Samson",
+      "role": "Admin",
+      "city": "Paris"
+    }
+  ]
+}
