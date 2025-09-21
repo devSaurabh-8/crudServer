@@ -2,7 +2,6 @@
   "name": "crud-server",
   "version": "1.0.0",
   "description": "Simple CRUD backend using json-server",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "json-server --watch db.json --port $PORT"
