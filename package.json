@@ -1,11 +1,11 @@
 {
-  "name": "crud-server",
+  "name": "crud-backend",
   "version": "1.0.0",
-  "description": "Simple CRUD backend using json-server",
+  "main": "server.js",
   "scripts": {
-    "start": "node node_modules/json-server/lib/server/index.js --watch db.json --port $PORT"
+    "start": "node server.js"
   },
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.4"
   }
 }
